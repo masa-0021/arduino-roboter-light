@@ -1,1 +1,2 @@
-# arduino-roboter-light
+# Roboter lights
+Random blinking of LEDs
